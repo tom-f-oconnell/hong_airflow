@@ -1,0 +1,6 @@
+
+- include scripts to register startup of daemons
+    - airflow webserver and airflow scheduler on master
+    - airflow worker where appropriate (w/ pool / q settings)
+
+
